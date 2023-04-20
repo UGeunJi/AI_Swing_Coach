@@ -16,3 +16,6 @@
 6. OpenCV로 목적에 맞게 표시
 7. 코멘트
 ```
+
+[빵형 가위바위보](https://www.youtube.com/watch?v=udeQhZHx-00) <br>
+[Source Code](https://github.com/kairess/Rock-Paper-Scissors-Machine)
